@@ -1,0 +1,23 @@
+{
+  "name": "step_mongodb_mongoose_crud_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MArsalanAI3/step_mongodb_mongoose_crud_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MArsalanAI3/step_mongodb_mongoose_crud_node/issues"
+  },
+  "homepage": "https://github.com/MArsalanAI3/step_mongodb_mongoose_crud_node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.9"
+  }
+}
